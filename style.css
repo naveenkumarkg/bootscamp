@@ -1,0 +1,31 @@
+div,article,p{
+    border:1px solid black;
+    margin:10px;
+    /* background-color: yellow; */
+}
+
+a:link {
+    padding: 30px;
+    background-color: green;
+}
+  
+  a:visited {
+    color: pink;
+   
+  }
+  
+  a:hover {
+    color: red;
+    background:red;
+    width: 800px;
+    border:1px solid black
+   
+  }
+  
+  a:active {
+    color: yellow;
+   
+  }
+
+
+
