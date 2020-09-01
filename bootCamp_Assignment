@@ -1,20 +1,29 @@
+##9/01/2020
+1. Read about https://www.w3schools.com/css/css3_box-sizing.asp
+2. Complete Layout section from W3
+3. Complete FCC CSS section 50%
+-----------------------------------------------------------------------
+Q&A
+
+
+-------------------------------------------------------------------------
 ##8/31/2020 [FOCUS/ Commitment]
 
 How To From W3
 
-  1. How TO - Menu Icon [ https://www.w3schools.com/howto/howto_css_icon_bar.asp]
-  2. How TO - Icon Bar [https://www.w3schools.com/howto/howto_css_menu_icon.asp]
+  1. How TO - Menu Icon [ https://www.w3schools.com/howto/howto_css_icon_bar.asp] [Completed but need to carryForward][TBD - To be Done]
+  2. How TO - Icon Bar [https://www.w3schools.com/howto/howto_css_menu_icon.asp] [Completed but need to carryForward]
 
 FreeCodeCamp
-  1. Complete HTML Section 
+  1. Complete HTML Section [Completed]
 
 CarryForward:
   1. Media Queries from the Previous Assignment [ACME]
-  2.   1. How TO - Menu Icon [ https://www.w3schools.com/howto/howto_css_icon_bar.asp]
+  2. 
 
 Q&A
 ----------
-1. <i class="fa fa-search"> ---> i is an italic tag, why it is used for ions and doubt in tag structure?
+1. <i class="fa fa-search"> ---> i is an italic tag, why it is used for icons and doubt in tag structure? [Done]
 2. in div properties... text in side the block is not effecting y? 
 3. translate function in -webkit-transform... co-ordinated not clear?
 
@@ -27,7 +36,12 @@ Pradeepti
 Tharun 
   1. 
 Pradeepti/Tharun 
-  1. 
+  1.  Update the task 1 & 2 in github [31/08/2020]
+  2. Media Queries from the Previous Assignment [ACME][TBD by 5/09/2020]
+
+
+FYI:
+1. https://code.visualstudio.com/docs/languages/html
 
 
 
